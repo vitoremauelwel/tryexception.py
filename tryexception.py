@@ -18,5 +18,5 @@ try:
 
 except Exception as e:
 
-    print(f"outro jeito {e}", e)
+    print(f"outro jeito {e}", e) 
 
